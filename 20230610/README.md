@@ -2,7 +2,7 @@
 （ゆっくり動画化したい）  
 
 テキスト詳細  
-
+https://github.com/TetrisChallenge/document/blob/main/20230610/movie_text.md
 
 スライド
 > 20230429_【MakerFair用】技術チャレンジ部のご紹介  
