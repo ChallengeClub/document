@@ -1,7 +1,7 @@
 スライド（ゆっくり動画化したい）  
 ~~https://docs.google.com/presentation/d/1Y7Z2AAY0BAOLpgbvvTW3O1Tk3Fm9t_FzDwqkSJM7GVU/edit#slide=id.p1~~  
 https://docs.google.com/presentation/d/1sg3vIas_3VOdZEEuRMdmSZEn3U7gyL3ilMpROowvUno/edit#slide=id.p15  
-
+https://youtu.be/1NlpXNKbiD4  
 
 r: reimu  
 m: marisa  
