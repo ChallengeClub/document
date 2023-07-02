@@ -8,6 +8,9 @@ https://docs.google.com/presentation/d/1WvbrYfV9QgHqfaeUI_ZYBdVKDgeYJj_fsj4JMKvH
 1/20のオリエンテーション資料  
 https://docs.google.com/presentation/d/1-zcIqZfWVLjNphqSUH_44tE_5y_rRloYeRKa-OzoK8E/edit#
 
+プログラム説明資料  
+https://docs.google.com/presentation/d/1RvX59DvL-d8gVyKIsw_7cAFqDZfOP7nqtTKthuRf7RY/edit#slide=id.g1cc3c67aac1_0_76
+
 #### 動画
 
 20230120 tetris python introduction（オリエンテーション）  
