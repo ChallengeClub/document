@@ -2,11 +2,14 @@
 
 #### 過去実施時のppt/動画
 
-説明会  
-https://docs.google.com/presentation/d/1WvbrYfV9QgHqfaeUI_ZYBdVKDgeYJj_fsj4JMKvH0gI/edit#slide=id.g1cc3c67aac1_0_206
+~~説明会~~  
+~~https://docs.google.com/presentation/d/1WvbrYfV9QgHqfaeUI_ZYBdVKDgeYJj_fsj4JMKvH0gI/edit#slide=id.g1cc3c67aac1_0_206~~
 
-1/20のオリエンテーション資料  
-https://docs.google.com/presentation/d/1-zcIqZfWVLjNphqSUH_44tE_5y_rRloYeRKa-OzoK8E/edit#
+~~1/20のオリエンテーション資料~~  
+~~https://docs.google.com/presentation/d/1-zcIqZfWVLjNphqSUH_44tE_5y_rRloYeRKa-OzoK8E/edit#~~
+
+7/7のオリエンテーション資料  
+https://docs.google.com/presentation/d/1kJf8yDFjZJdHfP_hvvFPzOXrGCYbLQZVshvoF8n78Ok/edit#slide=id.g1e73dc37698_0_197
 
 プログラム説明資料  
 https://docs.google.com/presentation/d/1RvX59DvL-d8gVyKIsw_7cAFqDZfOP7nqtTKthuRf7RY/edit#slide=id.g1cc3c67aac1_0_76
