@@ -1,4 +1,4 @@
-tetris python 連絡board
+tetrisでpython学ぼう v5 連絡board
 
 
 ## A 
