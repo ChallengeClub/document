@@ -1,18 +1,18 @@
-renraku board
+tetris python 連絡board
 
 
-#### A 
+## A 
 
-#### B
+## B
 
-#### C
+## C
 
-#### D
+## D
 
-#### E
+## E
 
 
-#### sponsor
+## sponsor
 
 thanks
 
