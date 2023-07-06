@@ -10,7 +10,12 @@ zoom URL
 > https://us06web.zoom.us/j/86083662949?pwd=TTk2dG5FNlVnQ1k4TVVQemVBY3FQQT09  
 >   
 > ミーティングID: 860 8366 2949  
-> パスコード: 407462  
+> パスコード: 407462
+
+## 共通情報  
+
+> https://tetris-server-dev.challenge-club.org/#/trainings
+
 
 ## group A 
 
