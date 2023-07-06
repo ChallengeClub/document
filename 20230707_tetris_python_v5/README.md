@@ -23,7 +23,7 @@ score/training server
 > https://tetris-server-dev.challenge-club.org/#/trainings  
 > https://tetris-server-dev.challenge-club.org  
 
-## group A 
+## group A/E  
 
 日時：  
 URL：  
@@ -35,19 +35,13 @@ URL：
 URL：  
 備考：  
 
-## group C
+## group C1/C2
 
 日時：  
 URL：  
 備考：  
 
 ## group D
-
-日時：  
-URL：  
-備考：  
-
-## group E
 
 日時：  
 URL：  
