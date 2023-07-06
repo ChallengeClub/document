@@ -60,6 +60,8 @@ URL：
 - seigot
 
 アイスクリーム sponsor (大会の景品) thanks  
+景品候補:[ハーゲンダッツミニカップeギフト400円](https://sbg.jp/c/gifts/89400)1つ×N      
+discordのseigotアカウントのメモ欄記載paypayリンクに400円送るとN＋=1  
 
 - [air-gh](https://github.com/air-gh)
 - bbb -san
