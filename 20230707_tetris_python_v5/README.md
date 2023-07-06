@@ -1,4 +1,4 @@
-tetrisでpython学ぼう v5 連絡board
+tetrisでpython学ぼう v5 掲示板  
 
 ## 7/7(Fri) 18:00-19:30
 zoom URL  
