@@ -55,13 +55,17 @@ URL：
 
 ## sponsor
 
-運営 thanks
+運営 thanks  
 
-- xxx -san
-- yyy -san
-- zzz -san
+- [qbi-sui](https://github.com/qbi-sui)
+- [tuyosi1227](https://github.com/tuyosi1227)
+- [cookie4869](https://github.com/cookie4869)
+- [EndoNrak](https://github.com/EndoNrak)
+- [mattshamrock](https://github.com/mattshamrock)
+- [bushio](https://github.com/bushio)
+- seigot
 
-アイスクリーム thanks
+アイスクリーム sponsor (大会の景品) thanks  
 
 - aaa -san
 - bbb -san
