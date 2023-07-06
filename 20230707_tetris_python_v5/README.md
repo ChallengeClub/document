@@ -58,9 +58,9 @@ URL：
 - [mattshamrock](https://github.com/mattshamrock)
 - [bushio](https://github.com/bushio)
 - seigot
-
+ 
 #### アイスクリーム sponsor (大会の景品) thanks  
-景品候補:[ハーゲンダッツミニeギフト](https://sbg.jp/c/gifts/89400)×N      
+景品候補:ハーゲンダッツミニeギフト( https://sbg.jp/c/gifts/89400 )×N      
 `if ( discordのseigotアカウントのメモ欄記載paypayリンクに400円送る) と N＋=1`  
 
 - [air-gh](https://github.com/air-gh)
