@@ -18,11 +18,10 @@ zoom URL
 ## 共通情報  
 
 score/training server  
-> https://tetris-server-dev.challenge-club.org/#/trainings
 
-HomePage  
-
-> https://tetris-server-dev.challenge-club.org
+> https://tetris-server-dev.challenge-club.org/#/server/v5  
+> https://tetris-server-dev.challenge-club.org/#/trainings  
+> https://tetris-server-dev.challenge-club.org  
 
 ## group A 
 
