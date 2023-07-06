@@ -20,6 +20,9 @@ zoom URL
 score/training server  
 > https://tetris-server-dev.challenge-club.org/#/trainings
 
+HomePage  
+
+> https://tetris-server-dev.challenge-club.org
 
 ## group A 
 
