@@ -67,6 +67,6 @@ URL：
 
 アイスクリーム sponsor (大会の景品) thanks  
 
-- aaa -san
+- [air-gh](https://github.com/air-gh)
 - bbb -san
 - ccc -san
