@@ -49,7 +49,7 @@ URL：
 
 ## sponsor
 
-運営 thanks  
+#### 運営 thanks  
 
 - [qbi-sui](https://github.com/qbi-sui)
 - [tuyosi1227](https://github.com/tuyosi1227)
@@ -59,9 +59,9 @@ URL：
 - [bushio](https://github.com/bushio)
 - seigot
 
-アイスクリーム sponsor (大会の景品) thanks  
-景品候補:[ハーゲンダッツミニカップeギフト400円](https://sbg.jp/c/gifts/89400)1つ×N      
-discordのseigotアカウントのメモ欄記載paypayリンクに400円送るとN＋=1  
+#### アイスクリーム sponsor (大会の景品) thanks  
+景品候補:[ハーゲンダッツミニeギフト](https://sbg.jp/c/gifts/89400)×N      
+`if ( discordのseigotアカウントのメモ欄記載paypayリンクに400円送る) と N＋=1`  
 
 - [air-gh](https://github.com/air-gh)
 - bbb -san
