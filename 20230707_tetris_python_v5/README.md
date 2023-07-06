@@ -14,6 +14,7 @@ zoom URL
 
 ## 共通情報  
 
+score/training server  
 > https://tetris-server-dev.challenge-club.org/#/trainings
 
 
