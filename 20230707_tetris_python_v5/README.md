@@ -12,6 +12,9 @@ zoom URL
 > ミーティングID: 860 8366 2949  
 > パスコード: 407462
 
+[スライド](https://docs.google.com/presentation/d/1kJf8yDFjZJdHfP_hvvFPzOXrGCYbLQZVshvoF8n78Ok/edit#slide=id.g1e73dc37698_0_77)  
+[プログラム説明動画](https://www.youtube.com/watch?v=EDR4UEcUxG4)  
+
 ## 共通情報  
 
 score/training server  
