@@ -10,9 +10,9 @@ tetrisでpython学ぼう v5 掲示板
 
 score/training server  
 
-> https://tetris-server-dev.challenge-club.org  
-> https://tetris-server-dev.challenge-club.org/#/server/v5  
-> https://tetris-server-dev.challenge-club.org/#/trainings  
+> https://tetris-server.challenge-club.org  
+> https://tetris-server.challenge-club.org/#/server/v5  
+> https://tetris-server.challenge-club.org/#/trainings  
 
 ## group A  
 
