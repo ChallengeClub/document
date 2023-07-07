@@ -14,14 +14,15 @@ zoom URL
 
 [スライド](https://docs.google.com/presentation/d/1kJf8yDFjZJdHfP_hvvFPzOXrGCYbLQZVshvoF8n78Ok/edit#slide=id.g1e73dc37698_0_77)  
 [プログラム説明動画](https://www.youtube.com/watch?v=EDR4UEcUxG4)  
+[当日動画](https://youtu.be/wbQStBran0E)  
 
 ## 共通情報  
 
 score/training server  
 
+> https://tetris-server-dev.challenge-club.org  
 > https://tetris-server-dev.challenge-club.org/#/server/v5  
 > https://tetris-server-dev.challenge-club.org/#/trainings  
-> https://tetris-server-dev.challenge-club.org  
 
 ## group A/E  
 
@@ -43,9 +44,15 @@ URL：
 
 ## group D
 
-日時：  
-URL：  
-備考：  
+日時：毎週水曜  
+URL：
+
+> Zoomミーティングに参加する  
+> https://us06web.zoom.us/j/87409474587?pwd=UFAwWi9halV5djVXRm5EckJ2U1hqdz09  
+> ミーティングID: 874 0947 4587  
+> パスコード: 070300  
+
+備考：環境構築＋文法学習＋α  
 
 ## sponsor
 
