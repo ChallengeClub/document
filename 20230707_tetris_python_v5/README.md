@@ -14,7 +14,7 @@ score/training server
 > https://tetris-server-dev.challenge-club.org/#/server/v5  
 > https://tetris-server-dev.challenge-club.org/#/trainings  
 
-## group A/E  
+## group A  
 
 日時：  
 URL：  
@@ -41,6 +41,12 @@ URL：
 > https://us06web.zoom.us/j/87409474587?pwd=UFAwWi9halV5djVXRm5EckJ2U1hqdz09  
 > ミーティングID: 874 0947 4587  
 > パスコード: 070300  
+
+## group A  
+
+日時：  
+URL：  
+備考：  
 
 備考：環境構築＋文法学習＋α  
 
