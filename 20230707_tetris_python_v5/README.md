@@ -10,6 +10,7 @@ tetrisでpython学ぼう v5 掲示板
 
 score/training server  
 
+  https://tetris-server.challenge-club.org/#/
 > https://tetris-server.challenge-club.org  
 > https://tetris-server.challenge-club.org/#/server/v5  
 > https://tetris-server.challenge-club.org/#/trainings  
@@ -44,10 +45,10 @@ URL：
 
 備考：環境構築＋文法学習＋α  
 
-## group A  
+## group E  
 
-日時：  
-URL：  
+日時：金19:00-  
+URL：discordのボイスチャネル（テトリス一般_e）  
 備考：  
 
 ## sponsor
