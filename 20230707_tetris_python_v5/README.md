@@ -68,5 +68,5 @@ URL：discordのボイスチャネル（テトリス一般_e）
 `if ( discordのseigotアカウントのメモ欄記載paypayリンクに400円送る) と N＋=1`  
 
 - [air-gh](https://github.com/air-gh)
-- bbb -san
+- [isshy-you](https://github.com/isshy-you)
 - ccc -san
