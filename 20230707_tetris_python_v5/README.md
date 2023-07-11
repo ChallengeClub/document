@@ -27,11 +27,11 @@ URL：
 URL：  
 備考：  
 
-## group C1/C2
+## group C1/C2/C3
 
-日時：  
-URL：  
-備考：  
+日時： 7/19(Wed)〜9/25(Mon) 毎週月曜 20:00-
+URL： https://us06web.zoom.us/j/83074806816?pwd=NmN4aStIL3Uvck5neVZCZS9qakRRQT09
+備考： Day1＆9は、祝日のためWedへ振替。お盆休みの週はナシ。
 
 ## group D
 
