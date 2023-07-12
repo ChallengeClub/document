@@ -44,6 +44,9 @@ URL：
 > パスコード: 070300  
 
 備考：環境構築＋文法学習＋α  
+備考：誰でもwelcome
+
+[d_20230712.md](https://github.com/ChallengeClub/document/blob/main/20230707_tetris_python_v5/d/d_20230712.md)  
 
 ## group E  
 
