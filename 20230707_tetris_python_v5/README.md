@@ -55,6 +55,8 @@ URL：
 URL：discordのボイスチャネル（テトリス一般_e）  
 備考：  
 
+[e_20230714.md](https://github.com/ChallengeClub/document/blob/main/20230707_tetris_python_v5/e/e_20230714.md)  
+
 ## sponsor
 
 #### 運営 thanks  
