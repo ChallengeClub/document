@@ -17,8 +17,8 @@ score/training server
 
 ## group A  
 
-日時：  
-URL：  
+日時：金20:00-  
+URL：discordのボイスチャネル（テトリス一般_a）   
 備考：  
 
 ## group B
