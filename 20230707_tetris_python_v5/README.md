@@ -74,6 +74,7 @@ URL：discordのボイスチャネル（テトリス一般_e）
 景品候補:ハーゲンダッツミニeギフト( https://sbg.jp/c/gifts/89400 )×N      
 `if ( discordのseigotアカウントのメモ欄記載paypayリンクに400円送る) と N＋=1`  
 
-- [air-gh](https://github.com/air-gh)
-- [isshy-you](https://github.com/isshy-you)
-- ccc -san
+- [air-gh](https://github.com/air-gh)  
+- [isshy-you](https://github.com/isshy-you)  
+- [kokko1023](https://github.com/kokko1023)  
+- xxx -san  
