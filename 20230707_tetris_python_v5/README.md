@@ -50,6 +50,8 @@ URL：
 [d_20230712.md](https://github.com/ChallengeClub/document/blob/main/20230707_tetris_python_v5/d/d_20230712.md)  
 [d_20230719.md](https://github.com/ChallengeClub/document/blob/main/20230707_tetris_python_v5/d/d_20230719.md)  
 [d_20230726.md](https://github.com/ChallengeClub/document/blob/main/20230707_tetris_python_v5/d/d_20230726.md)  
+[d_20230802.md](https://github.com/ChallengeClub/document/blob/main/20230707_tetris_python_v5/d/d_20230802.md)  
+[d_20230809.md](https://github.com/ChallengeClub/document/blob/main/20230707_tetris_python_v5/d/d_20230809.md)  
 
 ## group E  
 
