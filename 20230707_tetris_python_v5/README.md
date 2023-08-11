@@ -100,9 +100,10 @@ URL：discordのボイスチャネル（テトリス一般_e）
  
 #### アイスクリーム sponsor (大会の景品) thanks  
 景品候補:ハーゲンダッツミニeギフト( https://sbg.jp/c/gifts/89400 )×N      
-`if ( discordのseigotアカウントのメモ欄記載paypayリンクに400円送る) と N＋=1`  
+sponsor登録のやり方：`if ( discordのseigotアカウントのメモ欄記載paypayリンクに400円送る) と N＋=1`  
 
 - [air-gh](https://github.com/air-gh)  
 - [isshy-you](https://github.com/isshy-you)  
 - [kokko1023](https://github.com/kokko1023)  
 - xxx -san  
+(sponsor登録毎に追加)  
