@@ -95,8 +95,8 @@ URL：discordのボイスチャネル（テトリス一般_e）
 - [cookie4869](https://github.com/cookie4869)
 - [EndoNrak](https://github.com/EndoNrak)
 - [mattshamrock](https://github.com/mattshamrock)
-- [bushio](https://github.com/bushio)
-- seigot
+- [bushio](https://github.com/bushio)  
+- [seigot](https://github.com/seigot)  
  
 #### アイスクリーム sponsor (大会の景品) thanks  
 景品候補:ハーゲンダッツミニeギフト( https://sbg.jp/c/gifts/89400 )×N      
