@@ -9,18 +9,24 @@ tetrisでpython学ぼう v5 掲示板
 
 ## トーナメントイベント
 
-初参加限定トーナメント大会〜スポンサー冨家さん/石川さん/中村友さんありがとうございます杯〜
-対象：レベル２
-提出先：https://tetris-server.challenge-club.org/#/entry/v5
-提出〆：8/31
+#### 初参加限定トーナメント大会〜スポンサー冨家さん/石川さん/中村友さんありがとうございます杯〜  
+日時：9/1 18:30-(仮)  
+対象：レベル２  
+提出先：https://tetris-server.challenge-club.org/#/entry/v5  
+提出〆：8/31  
 
-> --
-> トピック: トーナメント大会
-> 時間: 2023年9月1日 06:30 PM 大阪、札幌、東京
-> https://us06web.zoom.us/j/82044166010?pwd=VDh4N0FnOUozZEFiYXM4UE1yU3hhQT09
-> ミーティングID: 820 4416 6010
+> トピック: トーナメント大会  
+> 時間: 2023年9月1日 06:30 PM 大阪、札幌、東京  
+> https://us06web.zoom.us/j/82044166010?pwd=VDh4N0FnOUozZEFiYXM4UE1yU3hhQT09  
+> ミーティングID: 820 4416 6010  
 > パスコード: 576709
-> --
+
+#### 最終トーナメント大会  
+
+日時：9/22 or 29 18:30-(仮)  
+対象：レベル１、２、２(AI)、３、４  
+提出先：https://tetris-server.challenge-club.org/#/entry/v5  
+提出〆：1週間前くらい  
 
 ## 共通情報  
 
