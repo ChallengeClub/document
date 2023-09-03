@@ -102,8 +102,8 @@ URL：discordのボイスチャネル（テトリス一般_e）
 景品候補:ハーゲンダッツミニeギフト( https://sbg.jp/c/gifts/89400 )×N      
 sponsor登録のやり方：`if ( discordのseigotアカウントのメモ欄記載paypayリンクに400円送る) と N＋=1`  
 
-- [air-gh](https://github.com/air-gh)  
-- [isshy-you](https://github.com/isshy-you)  
-- [kokko1023](https://github.com/kokko1023)  
+- [air-gh](https://github.com/air-gh)    *2.5  
+- [isshy-you](https://github.com/isshy-you)  *5.0  
+- [kokko1023](https://github.com/kokko1023)  *2.5  
 - xxx -san  
 (sponsor登録毎に追加)  
