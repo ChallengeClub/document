@@ -7,3 +7,6 @@ https://avatars.githubusercontent.com/u/123250156?s=200&v=4
 
 ryuさんリポジトリ  
 https://github.com/ryu10/tetriscad/tree/main  
+
+Eventbrite  
+https://www.eventbrite.com/organizations/info/profile/86198715633  
